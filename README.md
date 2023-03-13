@@ -1,2 +1,5 @@
-Repositório para desenvolvimento do curso de DevOps
+Repositório para desenvolvimento do curso de DevOps.
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
  
